@@ -16,21 +16,27 @@
       <li>Discrete Mathematics</li>
     </ul>
   </body>
+
+
+<head>
+  <title>List of Places I would like to work</title>
+
+</head>
+<body>
+<h1>Dream jobs </h1> 
+---
+<ul>
+<li>[McDonalds](https://careers.mcdonalds.com/)</li>
+<li>[Walmart](https://storejobs.wal-mart.com/HiringCenter/homeScreen)</li>
+<li>[BestBuy](https://jobs.bestbuy.com/bby)</li>
+</ul>
+<h1> Secondary jobs </h1>
+---
+<ul>
+<li>[WaffleHouse](https://www.wafflehouse.com/careers/)</li>
+<li>[TacoBell](https://jobs.tacobell.com/)</li>
+<li>[Amazon](https://hiring.amazon.com/)</li>
+<li>[Gracie's](https://www.rit.edu/)</li>
+</ul>
+</body>
 </html>
-
-# **List of Places I would like to work** 
-
-## Dream jobs 
----
-
-[McDonalds](https://careers.mcdonalds.com/)
-[Walmart](https://storejobs.wal-mart.com/HiringCenter/homeScreen)
-[BestBuy](https://jobs.bestbuy.com/bby)
-
-## Secondary jobs 
----
-
-[WaffleHouse](https://www.wafflehouse.com/careers/)
-[TacoBell](https://jobs.tacobell.com/)
-[Amazon](https://hiring.amazon.com/)
-[Gracie's](https://www.rit.edu/)
